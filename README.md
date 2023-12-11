@@ -1,4 +1,7 @@
 # AR-Application
+
+PS：The source package of the whole application is too large to upload to this repositories. If necessary, you can contact me to get it(email:taoruixing1@gmail.com)
+
 1：Creativity and conception: 
 This is an interesting AR interactive Android application for popular science. 
 Although modern people have the consciousness of protecting cultural relics, many cultural relics are not necessarily known before them. We just want to make use of our strengths to make cultural relics interesting and appear in front of everyone, so that cultural relics can not only lie in cold museums, but also appear in front of people in a trendy way. So I finally decided to do an AR popular science project about historical relics. 
